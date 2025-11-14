@@ -1,0 +1,4 @@
+{
+  "scrape_delay_ms": 1000,
+  "user_agent": "Mozilla/5.0 (Custom Scraper)"
+}
